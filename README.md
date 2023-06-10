@@ -9,10 +9,7 @@
   
   ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MickaellWashington&theme=dracula&hide_border=true&title_color=AC1ED9&line=AC1ED9&point=fff&text_color=fff&area=true&area_color=380759&bg_color=0d1117)
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MickaellWashington&theme=dracula"/>
-</p>
 
 <div align="center">
-    <a href="www.instagram.com" target="_blank"><img src></a>
+    <a href="www.instagram.com/mwdevm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
