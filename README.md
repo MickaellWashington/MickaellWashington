@@ -9,17 +9,23 @@
   
   ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MickaellWashington&theme=dracula&hide_border=true&title_color=AC1ED9&line=AC1ED9&point=fff&text_color=fff&area=true&area_color=380759&bg_color=0d1117)
 
-
-### Social:
+### Contact:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5582993810364)
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]
+### Social:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mwdevm)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaellwashington/)
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/M.%20Washington#2549)
 
 
 ### Main Skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### OS:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -39,5 +45,11 @@
 
 ### Terminal:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+<div align="center">
+    <br><p align="center"><br>Visitors Count</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MickaellWashington}/count.svg"/><p/>
+    <br.</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=AC1ED9&height=150&section=footer" />
